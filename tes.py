@@ -4,8 +4,7 @@ import requests, json
 import datetime
 import numpy as np
  
-token = "iis96ihAcH7wPoTZQpBymGCcz1JTIVSv75USzXWBoYB" # sandkaul
-#token = "xn0pKAYqDZMhmJ2p4KG5zHcjryVvF55GFaynXq6u35p"#perki
+token = "" # isi token grup
 
 
 

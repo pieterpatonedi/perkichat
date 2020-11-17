@@ -4,7 +4,7 @@ import datetime
 import os
 
 
-token = "iis96ihAcH7wPoTZQpBymGCcz1JTIVSv75USzXWBoYB"# sandkaul
+token = " "# isi token grup buat tes
 
 
 kalimat = input(">> ")
